@@ -398,7 +398,7 @@ Viewers cannot edit records.
   
 ### Storing Plain Passwords  
   
-❌ Wrong  
+ Wrong  
   
 ```javascript  
 password: "123456"  
@@ -436,15 +436,11 @@ Require:
   
 ### Using Fast Hash Algorithms  
   
-❌  
-  
 ```javascript  
 SHA-256  
 ```  
   
 Not recommended for passwords.  
-  
-✅  
   
 Use:  
   
@@ -457,8 +453,6 @@ Use:
 ## Authorization  
   
 ### Only Protecting the Frontend  
-  
-❌  
   
 Hide the Delete button.  
   

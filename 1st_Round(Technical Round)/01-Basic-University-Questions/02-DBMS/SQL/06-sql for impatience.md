@@ -829,6 +829,12 @@ Returns:
 
 ---
 
+## Triggers in SQL
+
+Triggers in sql are special function that automatically runs when specific event occurs
+
+---
+
 ## Common Mistake
 
 Incorrect
@@ -993,8 +999,7 @@ Questions like these cannot be solved cleanly with `GROUP BY`:
     
 - Rank students
     
-- Top three products per category
-    
+- Top three products per category    
 
 ---
 

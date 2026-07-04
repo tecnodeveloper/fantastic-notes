@@ -290,3 +290,7 @@ fetch("/dashboard", {
 - Combine sessions, tokens, or SSO as needed for real-world applications
     
 - Always consider edge cases and best security practicese
+
+
+## http vs https
+## How SSL works 
